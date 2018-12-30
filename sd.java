@@ -1,5 +1,5 @@
 import java.util.*;
-class island{
+class ideone{
     public static int islandcheck(int ar[][])
     {
          if(ar==null)
